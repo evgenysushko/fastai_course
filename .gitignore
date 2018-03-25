@@ -1,6 +1,7 @@
 *~
 .pypirc
 ~*
+.gitignore
 tmp*
 tags
 data
